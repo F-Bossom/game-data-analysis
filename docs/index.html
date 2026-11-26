@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>What Makes a Game Succeed? | Game Data Analysis</title>
+  </head>
+  <body>
+    <h1>What Makes a Game Succeed?</h1>
+    <p>A data analysis of Steam and console games.</p>
+
+    <h2>Live: Steam players online right now</h2>
+    <p id="updated">Loading…</p>
+    <table id="live">
+      <thead>
+        <tr>
+          <th>#</th>
+          <th>Game</th>
+          <th>Steam players</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+
+    <script>
+      fetch('data/latest.json')
+        .then((response) => response.json())
+        .then((data) => {
+          const updated = new Date(data.updated_utc);
+          document.getElementById('updated').textContent =
+            'Last updated: ' + updated.toLocaleString();
+
+          const tbody = document.querySelector('#live tbody');
+          data.games.slice(0, 10).forEach((game, i) => {
+            const row = tbody.insertRow();
+            row.insertCell().textContent = i + 1;
+            row.insertCell().textContent = game.name;
+            row.insertCell().textContent = game.players.toLocaleString();
+          });
+        })
+        .catch(() => {
+          document.getElementById('updated').textContent =
+            'Live data is unavailable right now.';
+        });
+    </script>
+  </body>
+</html>

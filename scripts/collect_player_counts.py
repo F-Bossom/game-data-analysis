@@ -14,6 +14,7 @@ ROOT = Path(__file__).resolve().parent.parent
 TRACKED = ROOT / "data/live/tracked_games.csv"
 HISTORY = ROOT / "data/live/player_counts.csv"
 LATEST = ROOT / "data/live/latest.json"
+LATEST_SITE = ROOT / "docs/data/latest.json"
 URL = "https://api.steampowered.com/ISteamUserStats/GetNumberOfCurrentPlayers/v1/"
 
 
@@ -50,7 +51,9 @@ def main():
 
     ok = [r for r in rows if r["players"] is not None]
     ok.sort(key=lambda r: r["players"], reverse=True)
-    LATEST.write_text(json.dumps({"updated_utc": timestamp, "games": ok}, indent=2))
+    snapshot = json.dumps({"updated_utc": timestamp, "games": ok}, indent=2)
+    LATEST.write_text(snapshot)
+    LATEST_SITE.write_text(snapshot)
     print(f"{timestamp}: recorded {len(ok)}/{len(rows)} games")
 
 
