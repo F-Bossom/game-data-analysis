@@ -1,0 +1,27 @@
+name: Collect Steam player counts
+
+on:
+  schedule:
+    - cron: "17 * * * *"   # every hour at :17 past (UTC), avoiding the busy top of the hour
+  workflow_dispatch:        # adds a "Run workflow" button for manual runs
+
+permissions:
+  contents: write           # allows the job to commit the new data
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install requests
+      - run: python scripts/collect_player_counts.py
+      - name: Commit new data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/live/
+          git commit -m "Update Steam player counts" || echo "No changes"
+          git push
