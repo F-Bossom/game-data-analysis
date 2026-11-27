@@ -1,602 +1,602 @@
 {
-  "updated_utc": "2026-11-26T18:59:05Z",
+  "updated_utc": "2026-11-27T02:10:18Z",
   "games": [
     {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
+      "timestamp_utc": "2026-11-27T02:10:18Z",
       "appID": "730",
       "name": "Counter-Strike 2",
-      "players": 988215
+      "players": 454027
     },
     {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
+      "timestamp_utc": "2026-11-27T02:10:18Z",
       "appID": "570",
       "name": "Dota 2",
-      "players": 716355
+      "players": 450418
     },
     {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
+      "timestamp_utc": "2026-11-27T02:10:18Z",
       "appID": "578080",
       "name": "PUBG: BATTLEGROUNDS",
-      "players": 202308
+      "players": 116425
     },
     {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
+      "timestamp_utc": "2026-11-27T02:10:18Z",
       "appID": "440",
       "name": "Team Fortress 2",
-      "players": 107460
+      "players": 96851
     },
     {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
-      "appID": "252490",
-      "name": "Rust",
-      "players": 92223
-    },
-    {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
+      "timestamp_utc": "2026-11-27T02:10:18Z",
       "appID": "1938090",
       "name": "Call of Duty\u00ae",
-      "players": 89019
+      "players": 78630
     },
     {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
-      "appID": "271590",
-      "name": "Grand Theft Auto V Legacy",
-      "players": 76810
-    },
-    {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
-      "appID": "1172470",
-      "name": "Apex Legends\u2122",
-      "players": 72070
-    },
-    {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
-      "appID": "1091500",
-      "name": "Cyberpunk 2077",
-      "players": 66918
-    },
-    {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
-      "appID": "1174180",
-      "name": "Red Dead Redemption 2",
-      "players": 63914
-    },
-    {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
-      "appID": "236390",
-      "name": "War Thunder",
-      "players": 62355
-    },
-    {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
-      "appID": "322170",
-      "name": "Geometry Dash",
-      "players": 62312
-    },
-    {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
-      "appID": "431960",
-      "name": "Wallpaper Engine",
-      "players": 58498
-    },
-    {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
+      "timestamp_utc": "2026-11-27T02:10:18Z",
       "appID": "2767030",
       "name": "Marvel Rivals",
-      "players": 57957
+      "players": 58422
     },
     {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
-      "appID": "238960",
-      "name": "Path of Exile",
-      "players": 57780
+      "timestamp_utc": "2026-11-27T02:10:18Z",
+      "appID": "431960",
+      "name": "Wallpaper Engine",
+      "players": 54626
     },
     {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
-      "appID": "381210",
-      "name": "Dead by Daylight",
-      "players": 56822
+      "timestamp_utc": "2026-11-27T02:10:18Z",
+      "appID": "252490",
+      "name": "Rust",
+      "players": 52611
     },
     {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
+      "timestamp_utc": "2026-11-27T02:10:18Z",
+      "appID": "1172470",
+      "name": "Apex Legends\u2122",
+      "players": 50931
+    },
+    {
+      "timestamp_utc": "2026-11-27T02:10:18Z",
+      "appID": "1091500",
+      "name": "Cyberpunk 2077",
+      "players": 49929
+    },
+    {
+      "timestamp_utc": "2026-11-27T02:10:18Z",
       "appID": "359550",
       "name": "Tom Clancy's Rainbow Six\u00ae Siege X",
-      "players": 55649
+      "players": 48518
     },
     {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
-      "appID": "227300",
-      "name": "Euro Truck Simulator 2",
-      "players": 48221
+      "timestamp_utc": "2026-11-27T02:10:18Z",
+      "appID": "1174180",
+      "name": "Red Dead Redemption 2",
+      "players": 45769
     },
     {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
-      "appID": "230410",
-      "name": "Warframe",
-      "players": 46036
+      "timestamp_utc": "2026-11-27T02:10:18Z",
+      "appID": "381210",
+      "name": "Dead by Daylight",
+      "players": 40299
     },
     {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
+      "timestamp_utc": "2026-11-27T02:10:18Z",
       "appID": "438100",
       "name": "VRChat",
-      "players": 42447
+      "players": 40115
     },
     {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
-      "appID": "221100",
-      "name": "DayZ",
-      "players": 39059
+      "timestamp_utc": "2026-11-27T02:10:18Z",
+      "appID": "322170",
+      "name": "Geometry Dash",
+      "players": 39579
     },
     {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
-      "appID": "892970",
-      "name": "Valheim",
-      "players": 38489
+      "timestamp_utc": "2026-11-27T02:10:18Z",
+      "appID": "230410",
+      "name": "Warframe",
+      "players": 39223
     },
     {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
+      "timestamp_utc": "2026-11-27T02:10:18Z",
+      "appID": "271590",
+      "name": "Grand Theft Auto V Legacy",
+      "players": 37588
+    },
+    {
+      "timestamp_utc": "2026-11-27T02:10:18Z",
       "appID": "413150",
       "name": "Stardew Valley",
-      "players": 38263
+      "players": 34148
     },
     {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
+      "timestamp_utc": "2026-11-27T02:10:18Z",
+      "appID": "238960",
+      "name": "Path of Exile",
+      "players": 31152
+    },
+    {
+      "timestamp_utc": "2026-11-27T02:10:18Z",
+      "appID": "236390",
+      "name": "War Thunder",
+      "players": 30457
+    },
+    {
+      "timestamp_utc": "2026-11-27T02:10:18Z",
       "appID": "1086940",
       "name": "Baldur's Gate 3",
-      "players": 38043
+      "players": 30059
     },
     {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
-      "appID": "394360",
-      "name": "Hearts of Iron IV",
-      "players": 36699
-    },
-    {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
-      "appID": "250900",
-      "name": "The Binding of Isaac: Rebirth",
-      "players": 34712
-    },
-    {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
+      "timestamp_utc": "2026-11-27T02:10:18Z",
       "appID": "108600",
       "name": "Project Zomboid",
-      "players": 34062
+      "players": 26207
     },
     {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
-      "appID": "489830",
-      "name": "The Elder Scrolls V: Skyrim Special Edition",
-      "players": 32436
-    },
-    {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
-      "appID": "4000",
-      "name": "Garry's Mod",
-      "players": 28504
-    },
-    {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
-      "appID": "284160",
-      "name": "BeamNG.drive",
-      "players": 27696
-    },
-    {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
-      "appID": "292030",
-      "name": "The Witcher 3: Wild Hunt",
-      "players": 24886
-    },
-    {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
-      "appID": "289070",
-      "name": "Sid Meier\u2019s Civilization\u00ae VI",
-      "players": 24656
-    },
-    {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
-      "appID": "105600",
-      "name": "Terraria",
-      "players": 23804
-    },
-    {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
-      "appID": "553850",
-      "name": "HELLDIVERS\u2122 2",
-      "players": 22472
-    },
-    {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
-      "appID": "252950",
-      "name": "Rocket League\u00ae",
-      "players": 21277
-    },
-    {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
-      "appID": "1623730",
-      "name": "Palworld",
-      "players": 21155
-    },
-    {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
-      "appID": "261550",
-      "name": "Mount & Blade II: Bannerlord",
-      "players": 21069
-    },
-    {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
-      "appID": "1245620",
-      "name": "ELDEN RING",
-      "players": 20722
-    },
-    {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
-      "appID": "251570",
-      "name": "7 Days to Die",
-      "players": 19549
-    },
-    {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
-      "appID": "1085660",
-      "name": "Destiny 2",
-      "players": 18219
-    },
-    {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
+      "timestamp_utc": "2026-11-27T02:10:18Z",
       "appID": "550",
       "name": "Left 4 Dead 2",
-      "players": 17910
+      "players": 25938
     },
     {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
-      "appID": "427520",
-      "name": "Factorio",
-      "players": 17676
+      "timestamp_utc": "2026-11-27T02:10:18Z",
+      "appID": "489830",
+      "name": "The Elder Scrolls V: Skyrim Special Edition",
+      "players": 25609
     },
     {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
-      "appID": "526870",
-      "name": "Satisfactory",
-      "players": 17489
+      "timestamp_utc": "2026-11-27T02:10:18Z",
+      "appID": "250900",
+      "name": "The Binding of Isaac: Rebirth",
+      "players": 24293
     },
     {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
-      "appID": "322330",
-      "name": "Don't Starve Together",
-      "players": 15208
+      "timestamp_utc": "2026-11-27T02:10:18Z",
+      "appID": "892970",
+      "name": "Valheim",
+      "players": 24128
     },
     {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
-      "appID": "594650",
-      "name": "Hunt: Showdown 1896",
-      "players": 14924
+      "timestamp_utc": "2026-11-27T02:10:18Z",
+      "appID": "221100",
+      "name": "DayZ",
+      "players": 20164
     },
     {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
-      "appID": "377160",
-      "name": "Fallout 4",
-      "players": 14237
+      "timestamp_utc": "2026-11-27T02:10:18Z",
+      "appID": "553850",
+      "name": "HELLDIVERS\u2122 2",
+      "players": 18985
     },
     {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
+      "timestamp_utc": "2026-11-27T02:10:18Z",
+      "appID": "394360",
+      "name": "Hearts of Iron IV",
+      "players": 18794
+    },
+    {
+      "timestamp_utc": "2026-11-27T02:10:18Z",
+      "appID": "289070",
+      "name": "Sid Meier\u2019s Civilization\u00ae VI",
+      "players": 18770
+    },
+    {
+      "timestamp_utc": "2026-11-27T02:10:18Z",
+      "appID": "105600",
+      "name": "Terraria",
+      "players": 18538
+    },
+    {
+      "timestamp_utc": "2026-11-27T02:10:18Z",
+      "appID": "1085660",
+      "name": "Destiny 2",
+      "players": 18055
+    },
+    {
+      "timestamp_utc": "2026-11-27T02:10:18Z",
+      "appID": "4000",
+      "name": "Garry's Mod",
+      "players": 17344
+    },
+    {
+      "timestamp_utc": "2026-11-27T02:10:18Z",
+      "appID": "1623730",
+      "name": "Palworld",
+      "players": 17084
+    },
+    {
+      "timestamp_utc": "2026-11-27T02:10:18Z",
+      "appID": "1245620",
+      "name": "ELDEN RING",
+      "players": 15310
+    },
+    {
+      "timestamp_utc": "2026-11-27T02:10:18Z",
       "appID": "304930",
       "name": "Unturned",
-      "players": 13722
+      "players": 15015
     },
     {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
+      "timestamp_utc": "2026-11-27T02:10:18Z",
+      "appID": "284160",
+      "name": "BeamNG.drive",
+      "players": 14964
+    },
+    {
+      "timestamp_utc": "2026-11-27T02:10:18Z",
+      "appID": "252950",
+      "name": "Rocket League\u00ae",
+      "players": 14849
+    },
+    {
+      "timestamp_utc": "2026-11-27T02:10:18Z",
+      "appID": "227300",
+      "name": "Euro Truck Simulator 2",
+      "players": 14116
+    },
+    {
+      "timestamp_utc": "2026-11-27T02:10:18Z",
+      "appID": "251570",
+      "name": "7 Days to Die",
+      "players": 14039
+    },
+    {
+      "timestamp_utc": "2026-11-27T02:10:18Z",
+      "appID": "322330",
+      "name": "Don't Starve Together",
+      "players": 13436
+    },
+    {
+      "timestamp_utc": "2026-11-27T02:10:18Z",
+      "appID": "261550",
+      "name": "Mount & Blade II: Bannerlord",
+      "players": 12971
+    },
+    {
+      "timestamp_utc": "2026-11-27T02:10:18Z",
+      "appID": "377160",
+      "name": "Fallout 4",
+      "players": 11512
+    },
+    {
+      "timestamp_utc": "2026-11-27T02:10:18Z",
+      "appID": "292030",
+      "name": "The Witcher 3: Wild Hunt",
+      "players": 11479
+    },
+    {
+      "timestamp_utc": "2026-11-27T02:10:18Z",
+      "appID": "427520",
+      "name": "Factorio",
+      "players": 11183
+    },
+    {
+      "timestamp_utc": "2026-11-27T02:10:18Z",
+      "appID": "526870",
+      "name": "Satisfactory",
+      "players": 10836
+    },
+    {
+      "timestamp_utc": "2026-11-27T02:10:18Z",
       "appID": "291550",
       "name": "Brawlhalla",
-      "players": 12812
+      "players": 10484
     },
     {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
+      "timestamp_utc": "2026-11-27T02:10:18Z",
       "appID": "346110",
       "name": "ARK: Survival Evolved",
-      "players": 12418
+      "players": 8528
     },
     {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
-      "appID": "10",
-      "name": "Counter-Strike",
-      "players": 11924
-    },
-    {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
-      "appID": "739630",
-      "name": "Phasmophobia",
-      "players": 11769
-    },
-    {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
-      "appID": "990080",
-      "name": "Hogwarts Legacy",
-      "players": 11186
-    },
-    {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
-      "appID": "275850",
-      "name": "No Man's Sky",
-      "players": 10445
-    },
-    {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
-      "appID": "1203220",
-      "name": "NARAKA: BLADEPOINT",
-      "players": 10106
-    },
-    {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
+      "timestamp_utc": "2026-11-27T02:10:18Z",
       "appID": "2246340",
       "name": "Monster Hunter Wilds",
-      "players": 9298
+      "players": 8436
     },
     {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
-      "appID": "1426210",
-      "name": "It Takes Two",
-      "players": 7677
+      "timestamp_utc": "2026-11-27T02:10:18Z",
+      "appID": "1203220",
+      "name": "NARAKA: BLADEPOINT",
+      "players": 8399
     },
     {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
-      "appID": "960090",
-      "name": "Bloons TD 6",
-      "players": 7586
+      "timestamp_utc": "2026-11-27T02:10:18Z",
+      "appID": "739630",
+      "name": "Phasmophobia",
+      "players": 7711
     },
     {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
+      "timestamp_utc": "2026-11-27T02:10:18Z",
       "appID": "632360",
       "name": "Risk of Rain 2",
-      "players": 7425
+      "players": 7584
     },
     {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
-      "appID": "1326470",
-      "name": "Sons Of The Forest",
-      "players": 7293
+      "timestamp_utc": "2026-11-27T02:10:18Z",
+      "appID": "990080",
+      "name": "Hogwarts Legacy",
+      "players": 7554
     },
     {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
-      "appID": "218620",
-      "name": "PAYDAY 2",
-      "players": 7221
+      "timestamp_utc": "2026-11-27T02:10:18Z",
+      "appID": "275850",
+      "name": "No Man's Sky",
+      "players": 7524
     },
     {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
-      "appID": "1551360",
-      "name": "Forza Horizon 5",
-      "players": 7142
+      "timestamp_utc": "2026-11-27T02:10:18Z",
+      "appID": "960090",
+      "name": "Bloons TD 6",
+      "players": 7231
     },
     {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
-      "appID": "1144200",
-      "name": "Ready or Not",
-      "players": 6965
+      "timestamp_utc": "2026-11-27T02:10:18Z",
+      "appID": "594650",
+      "name": "Hunt: Showdown 1896",
+      "players": 6438
     },
     {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
-      "appID": "107410",
-      "name": "Arma 3",
-      "players": 6326
-    },
-    {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
-      "appID": "548430",
-      "name": "Deep Rock Galactic",
-      "players": 6300
-    },
-    {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
-      "appID": "367520",
-      "name": "Hollow Knight",
-      "players": 6256
-    },
-    {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
-      "appID": "255710",
-      "name": "Cities: Skylines",
-      "players": 6167
-    },
-    {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
-      "appID": "945360",
-      "name": "Among Us",
-      "players": 6110
-    },
-    {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
+      "timestamp_utc": "2026-11-27T02:10:18Z",
       "appID": "582010",
       "name": "Monster Hunter: World",
-      "players": 6095
+      "players": 5623
     },
     {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
-      "appID": "1172620",
-      "name": "Sea of Thieves: 2025 Edition",
-      "players": 5174
-    },
-    {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
-      "appID": "648800",
-      "name": "Raft",
-      "players": 4775
-    },
-    {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
-      "appID": "374320",
-      "name": "DARK SOULS\u2122 III",
-      "players": 4460
-    },
-    {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
+      "timestamp_utc": "2026-11-27T02:10:18Z",
       "appID": "311210",
       "name": "Call of Duty\u00ae: Black Ops III",
-      "players": 4396
+      "players": 5545
     },
     {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
-      "appID": "2358720",
-      "name": "Black Myth: Wukong",
-      "players": 4356
+      "timestamp_utc": "2026-11-27T02:10:18Z",
+      "appID": "10",
+      "name": "Counter-Strike",
+      "players": 5458
     },
     {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
-      "appID": "239140",
-      "name": "Dying Light",
-      "players": 4128
+      "timestamp_utc": "2026-11-27T02:10:18Z",
+      "appID": "218620",
+      "name": "PAYDAY 2",
+      "players": 4918
     },
     {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
-      "appID": "242760",
-      "name": "The Forest",
-      "players": 4114
+      "timestamp_utc": "2026-11-27T02:10:18Z",
+      "appID": "255710",
+      "name": "Cities: Skylines",
+      "players": 4850
     },
     {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
-      "appID": "1145360",
-      "name": "Hades",
-      "players": 3699
+      "timestamp_utc": "2026-11-27T02:10:18Z",
+      "appID": "1144200",
+      "name": "Ready or Not",
+      "players": 4647
     },
     {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
-      "appID": "22380",
-      "name": "Fallout: New Vegas",
-      "players": 3606
+      "timestamp_utc": "2026-11-27T02:10:18Z",
+      "appID": "945360",
+      "name": "Among Us",
+      "players": 4620
     },
     {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
+      "timestamp_utc": "2026-11-27T02:10:18Z",
+      "appID": "367520",
+      "name": "Hollow Knight",
+      "players": 4533
+    },
+    {
+      "timestamp_utc": "2026-11-27T02:10:18Z",
       "appID": "976730",
       "name": "Halo: The Master Chief Collection",
-      "players": 3286
+      "players": 4465
     },
     {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
-      "appID": "1238810",
-      "name": "Battlefield\u2122 V",
-      "players": 3049
+      "timestamp_utc": "2026-11-27T02:10:18Z",
+      "appID": "1426210",
+      "name": "It Takes Two",
+      "players": 4075
     },
     {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
-      "appID": "49520",
-      "name": "Borderlands 2",
-      "players": 2796
+      "timestamp_utc": "2026-11-27T02:10:18Z",
+      "appID": "548430",
+      "name": "Deep Rock Galactic",
+      "players": 3974
     },
     {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
-      "appID": "264710",
-      "name": "Subnautica",
-      "players": 2738
+      "timestamp_utc": "2026-11-27T02:10:18Z",
+      "appID": "22380",
+      "name": "Fallout: New Vegas",
+      "players": 3934
     },
     {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
+      "timestamp_utc": "2026-11-27T02:10:18Z",
+      "appID": "1551360",
+      "name": "Forza Horizon 5",
+      "players": 3920
+    },
+    {
+      "timestamp_utc": "2026-11-27T02:10:18Z",
+      "appID": "107410",
+      "name": "Arma 3",
+      "players": 3706
+    },
+    {
+      "timestamp_utc": "2026-11-27T02:10:18Z",
+      "appID": "1326470",
+      "name": "Sons Of The Forest",
+      "players": 3698
+    },
+    {
+      "timestamp_utc": "2026-11-27T02:10:18Z",
+      "appID": "2358720",
+      "name": "Black Myth: Wukong",
+      "players": 3644
+    },
+    {
+      "timestamp_utc": "2026-11-27T02:10:18Z",
+      "appID": "374320",
+      "name": "DARK SOULS\u2122 III",
+      "players": 3371
+    },
+    {
+      "timestamp_utc": "2026-11-27T02:10:18Z",
+      "appID": "1145360",
+      "name": "Hades",
+      "players": 3131
+    },
+    {
+      "timestamp_utc": "2026-11-27T02:10:18Z",
+      "appID": "1172620",
+      "name": "Sea of Thieves: 2025 Edition",
+      "players": 3027
+    },
+    {
+      "timestamp_utc": "2026-11-27T02:10:18Z",
       "appID": "1966720",
       "name": "Lethal Company",
-      "players": 2698
+      "players": 2706
     },
     {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
+      "timestamp_utc": "2026-11-27T02:10:18Z",
+      "appID": "648800",
+      "name": "Raft",
+      "players": 2668
+    },
+    {
+      "timestamp_utc": "2026-11-27T02:10:18Z",
+      "appID": "49520",
+      "name": "Borderlands 2",
+      "players": 2610
+    },
+    {
+      "timestamp_utc": "2026-11-27T02:10:18Z",
+      "appID": "239140",
+      "name": "Dying Light",
+      "players": 2401
+    },
+    {
+      "timestamp_utc": "2026-11-27T02:10:18Z",
+      "appID": "1238810",
+      "name": "Battlefield\u2122 V",
+      "players": 2369
+    },
+    {
+      "timestamp_utc": "2026-11-27T02:10:18Z",
+      "appID": "242760",
+      "name": "The Forest",
+      "players": 2341
+    },
+    {
+      "timestamp_utc": "2026-11-27T02:10:18Z",
       "appID": "1794680",
       "name": "Vampire Survivors",
-      "players": 2418
+      "players": 2100
     },
     {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
+      "timestamp_utc": "2026-11-27T02:10:18Z",
       "appID": "814380",
       "name": "Sekiro\u2122: Shadows Die Twice - GOTY Edition",
-      "players": 2382
+      "players": 1935
     },
     {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
+      "timestamp_utc": "2026-11-27T02:10:18Z",
+      "appID": "264710",
+      "name": "Subnautica",
+      "players": 1741
+    },
+    {
+      "timestamp_utc": "2026-11-27T02:10:18Z",
       "appID": "1118200",
       "name": "People Playground",
-      "players": 2374
+      "players": 1388
     },
     {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
-      "appID": "220",
-      "name": "Half-Life 2",
-      "players": 1893
-    },
-    {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
-      "appID": "620",
-      "name": "Portal 2",
-      "players": 1732
-    },
-    {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
-      "appID": "72850",
-      "name": "The Elder Scrolls V: Skyrim",
-      "players": 1728
-    },
-    {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
-      "appID": "1237970",
-      "name": "Titanfall\u00ae 2",
-      "players": 1459
-    },
-    {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
+      "timestamp_utc": "2026-11-27T02:10:18Z",
       "appID": "1468810",
       "name": "\u9b3c\u8c37\u516b\u8352 Tale of Immortal",
-      "players": 1353
+      "players": 1334
     },
     {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
+      "timestamp_utc": "2026-11-27T02:10:18Z",
+      "appID": "1237970",
+      "name": "Titanfall\u00ae 2",
+      "players": 1270
+    },
+    {
+      "timestamp_utc": "2026-11-27T02:10:18Z",
+      "appID": "620",
+      "name": "Portal 2",
+      "players": 1166
+    },
+    {
+      "timestamp_utc": "2026-11-27T02:10:18Z",
+      "appID": "220",
+      "name": "Half-Life 2",
+      "players": 1061
+    },
+    {
+      "timestamp_utc": "2026-11-27T02:10:18Z",
       "appID": "391540",
       "name": "Undertale",
-      "players": 1317
+      "players": 1029
     },
     {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
-      "appID": "1517290",
-      "name": "Battlefield\u2122 2042",
-      "players": 1302
+      "timestamp_utc": "2026-11-27T02:10:18Z",
+      "appID": "72850",
+      "name": "The Elder Scrolls V: Skyrim",
+      "players": 1022
     },
     {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
+      "timestamp_utc": "2026-11-27T02:10:18Z",
       "appID": "203160",
       "name": "Tomb Raider Game of the Year",
-      "players": 1215
+      "players": 758
     },
     {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
+      "timestamp_utc": "2026-11-27T02:10:18Z",
       "appID": "444090",
       "name": "Paladins\u00ae",
-      "players": 948
+      "players": 707
     },
     {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
+      "timestamp_utc": "2026-11-27T02:10:18Z",
+      "appID": "1517290",
+      "name": "Battlefield\u2122 2042",
+      "players": 686
+    },
+    {
+      "timestamp_utc": "2026-11-27T02:10:18Z",
       "appID": "1097150",
       "name": "Fall Guys",
-      "players": 328
+      "players": 294
     },
     {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
+      "timestamp_utc": "2026-11-27T02:10:18Z",
       "appID": "1063730",
       "name": "New World: Aeternum",
-      "players": 317
+      "players": 203
     },
     {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
+      "timestamp_utc": "2026-11-27T02:10:18Z",
       "appID": "488824",
       "name": "Tom Clancy's Rainbow Six\u00ae Siege X",
       "players": 0
     },
     {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
+      "timestamp_utc": "2026-11-27T02:10:18Z",
       "appID": "488823",
       "name": "Tom Clancy's Rainbow Six\u00ae Siege X",
       "players": 0
     },
     {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
+      "timestamp_utc": "2026-11-27T02:10:18Z",
       "appID": "488822",
       "name": "Tom Clancy's Rainbow Six\u00ae Siege X",
       "players": 0
     },
     {
-      "timestamp_utc": "2026-11-26T18:59:05Z",
+      "timestamp_utc": "2026-11-27T02:10:18Z",
       "appID": "488821",
       "name": "Tom Clancy's Rainbow Six\u00ae Siege X",
       "players": 0
